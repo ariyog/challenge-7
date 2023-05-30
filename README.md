@@ -12,3 +12,7 @@ Unit Test run
 
 1. yarn install
 2. yarn test
+
+Link deploy netlify
+
+https://ariyogi-challenge-7.netlify.app
